@@ -231,7 +231,6 @@ body {
     body {
         align-items: flex-start;
         background-color: white;
-        overflow: hidden;
     }
 
     .card {
